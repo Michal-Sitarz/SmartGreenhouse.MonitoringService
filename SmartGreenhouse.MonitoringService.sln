@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartGreenhouse.MonitoringService", "SmartGreenhouse.MonitoringService\SmartGreenhouse.MonitoringService.csproj", "{4965D5EF-ADC0-4D8B-A445-047F4A7C86C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4965D5EF-ADC0-4D8B-A445-047F4A7C86C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4965D5EF-ADC0-4D8B-A445-047F4A7C86C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4965D5EF-ADC0-4D8B-A445-047F4A7C86C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4965D5EF-ADC0-4D8B-A445-047F4A7C86C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55FBAF44-7547-4ADB-9E91-3A56F88C6C42}
+	EndGlobalSection
+EndGlobal
